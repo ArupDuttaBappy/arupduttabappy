@@ -1,3 +1,9 @@
+Proficient in: <br>
+Java, Python, C, PHP, CSS, JavaScript, HTML <br>
+Matlab, Octave<br>
+SQL, MySQL DBMS<br>
+OOP , Agile Methodology<br>
+
 Linkedin: https://www.linkedin.com/in/arup-dutta-bappy/<br>
 E-mail: ad.bappy10@gmail.com or,<br>
         bappyad100@gmail.com<br>
